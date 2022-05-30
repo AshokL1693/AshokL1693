@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshokL1693
+- 👋 Hi, I’m Ashok
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on ...
