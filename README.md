@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ashok
 - 👀 I’m interested in DATA
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m seeking new career related to data
 - 📫 How to reach me iamashok.1693@gmail.com
 
 <!---
